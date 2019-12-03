@@ -3,12 +3,12 @@
 Final Project Final Project / Final Examination
 Create a program that will compute the following:
 
-Combination without Repetition...................................................................................................OK
-Permutation without Repetition...................................................................................................OK
-Combination with Repetition......................................................................................................OK
-Permutation with Repetition......................................................................................................OK
-Stirling Number of the Second Case...............................................................................................OK
-Pascal Triangle Row Generator....................................................................................................OK
+Combination without Repetition.....................................................OK
+Permutation without Repetition.....................................................OK
+Combination with Repetition........................................................OK
+Permutation with Repetition........................................................OK
+Stirling Number of the Second Case.................................................OK
+Pascal Triangle Row Generator......................................................OK
 
 Requirements
 
