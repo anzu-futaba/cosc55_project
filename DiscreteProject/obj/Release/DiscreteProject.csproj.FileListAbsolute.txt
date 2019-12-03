@@ -1,0 +1,7 @@
+C:\Users\Anzu Futaba\Desktop\discrete project\repos\csharp\discrete_project_c\DiscreteProject\DiscreteProject\bin\Release\DiscreteProject.exe.config
+C:\Users\Anzu Futaba\Desktop\discrete project\repos\csharp\discrete_project_c\DiscreteProject\DiscreteProject\bin\Release\DiscreteProject.exe
+C:\Users\Anzu Futaba\Desktop\discrete project\repos\csharp\discrete_project_c\DiscreteProject\DiscreteProject\bin\Release\DiscreteProject.pdb
+C:\Users\Anzu Futaba\Desktop\discrete project\repos\csharp\discrete_project_c\DiscreteProject\DiscreteProject\obj\Release\DiscreteProject.csprojAssemblyReference.cache
+C:\Users\Anzu Futaba\Desktop\discrete project\repos\csharp\discrete_project_c\DiscreteProject\DiscreteProject\obj\Release\DiscreteProject.csproj.CoreCompileInputs.cache
+C:\Users\Anzu Futaba\Desktop\discrete project\repos\csharp\discrete_project_c\DiscreteProject\DiscreteProject\obj\Release\DiscreteProject.exe
+C:\Users\Anzu Futaba\Desktop\discrete project\repos\csharp\discrete_project_c\DiscreteProject\DiscreteProject\obj\Release\DiscreteProject.pdb
