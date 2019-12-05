@@ -1,4 +1,4 @@
-# cosc55_project_csharp
+# cosc55_project
 ## Final Project Final Project / Final Examination
 #### Create a program that will compute the following:
 
